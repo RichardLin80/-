@@ -20,6 +20,7 @@ class ScoreViewController: UIViewController {
     @IBOutlet var Top3Date: [UILabel]!
     
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         getHighScore()
